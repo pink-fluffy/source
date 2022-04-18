@@ -1,0 +1,27 @@
+[submodule "backend/identity"]
+	path = backend/identity
+	url = git@github.com:pink-fluffy/identity.git
+[submodule "backend/products"]
+	path = backend/products
+	url = git@github.com:pink-fluffy/products.git
+[submodule "backend/carts"]
+	path = backend/carts
+	url = git@github.com:pink-fluffy/carts.git
+[submodule "backend/order"]
+	path = backend/order
+	url = git@github.com:pink-fluffy/order.git
+[submodule "backend/gateway"]
+	path = backend/gateway
+	url = git@github.com:pink-fluffy/gateway.git
+[submodule "backend/api"]
+	path = backend/api
+	url = git@github.com:pink-fluffy/api.git
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:pink-fluffy/frontend.git
+[submodule "docs"]
+	path = docs
+	url = git@github.com:pink-fluffy/docs.git
+[submodule "slate"]
+	path = slate
+	url = git@github.com:pink-fluffy/slate.git
